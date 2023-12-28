@@ -11,4 +11,8 @@ public class Teacher {
      void add(){
           
      }
+
+    void yangim(){
+        
+    }
 }
