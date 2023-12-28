@@ -12,4 +12,9 @@ public class Teacher {
     void feature(){
         System.out.println("feature");
     }
+
+    void feature2(){
+        System.out.println("feature");
+    }
+    
 }
