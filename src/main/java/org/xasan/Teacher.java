@@ -5,12 +5,12 @@ public class Teacher {
 
 
 
-    void ozgartir(){
-    
+    void ozgartir4(){
+        System.out.println("jjj");
     }
 
-    void ozgartir2(){
-
+    void ozgartir6(){
+        System.out.println("jjjjjj");
     }
 
 
