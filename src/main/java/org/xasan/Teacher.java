@@ -4,12 +4,8 @@ public class Teacher {
 
 
 
-    void masala(){
-        System.out.println("masala");
-    }
+    void vscode(){
 
-     void add(){
-          
-     }
+    }
 
 }
