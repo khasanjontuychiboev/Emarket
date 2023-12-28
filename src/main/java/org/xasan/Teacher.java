@@ -9,5 +9,9 @@ public class Teacher {
     
     }
 
+    void ozgartir2(){
+
+    }
+
 
 }
