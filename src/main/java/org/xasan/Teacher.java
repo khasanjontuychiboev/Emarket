@@ -1,12 +1,7 @@
 package org.xasan;
 
 public class Teacher {
-
-
-     void ozgartir3(){
-    
-    }
-
-
-
+     void add(){
+          
+     }
 }
