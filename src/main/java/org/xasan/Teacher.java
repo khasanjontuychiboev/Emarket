@@ -4,9 +4,10 @@ public class Teacher {
 
 
 
+
     void ozgartir(){
     
     }
 
-   
+
 }
