@@ -2,11 +2,15 @@ package org.xasan;
 
 public class Teacher {
     
-    void yangi nomi(){
+    void yangi_nomi(){
     
     }
 
-    void yangi nomi(){
+
+
+    void yangnomi(){
     
     }
+
+   
 }
