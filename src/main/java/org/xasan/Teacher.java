@@ -8,4 +8,8 @@ public class Teacher {
     void salom(){
         System.out.println("salom");
     }
+
+    void feature(){
+        System.out.println("feature");
+    }
 }
