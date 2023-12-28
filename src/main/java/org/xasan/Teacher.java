@@ -4,6 +4,9 @@ public class Teacher {
 
 
 
+  void inteell(){
+
+  }
     void vscode(){
 
     }
